@@ -343,6 +343,10 @@ header {
         width: 95%;
         
     }
+
+     .obj-width .logo{
+        margin-right: 54px;
+    }
 }
 
 @media (max-width: 699px) {
@@ -460,6 +464,11 @@ header {
     width: 50%;
     margin-bottom: 50px;
    }
+
+    .obj-width .logo{
+    margin-right: 50px;
+   }
+
 }
 
 
